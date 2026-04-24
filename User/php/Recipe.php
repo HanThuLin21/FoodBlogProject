@@ -46,7 +46,7 @@
                 </ul>
             </nav>
         </div>
-    </header>
+</header>
 
     <!-- Hero Section -->
     <section class="hero">
